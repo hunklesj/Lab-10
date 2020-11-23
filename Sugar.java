@@ -28,7 +28,7 @@ void setDecorated(boolean aDecorated){
 }
 void cut(int aNumber){
   super.setNumber(aNumber);
-  System.out.println(aNumber + " cookies were cut into " + shape + baked);
+  System.out.println(aNumber + " cookies were cut into " + shape);
 }
 
 void decorate(){
